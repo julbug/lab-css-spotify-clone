@@ -169,3 +169,40 @@ li{
     background-image: url(../Labs/lab-css-spotify-clone/images/devices-icon.png);
 }
 
+.tile3{
+    background-color: #1AB26B;
+    margin: 120px 40px 40px 40px ;
+    height: 1000px;
+    color: white;
+}
+
+.tile3 > h2{
+    padding-top: 100px;
+    padding-left: 70px;
+    text-decoration-color: white;
+}
+
+.tile3Boxes{
+    margin: 0 70px 0 70px;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tile3Box1{
+    width:1000px;
+}
+.tile3Box2{
+    display: flex;
+    justify-content: center;
+    width:800px;
+}
+
+.tile3whiteicon{
+    width:150px
+}
+
+.tile3appimage{
+    width:400px
+}
